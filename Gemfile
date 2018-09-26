@@ -34,6 +34,7 @@ gem 'kaminari'
 gem 'paper_trail', '~> 3.0.1'
 gem 'paranoid2'
 gem 'rails-observers'
+gem 'coveralls', require: false
 
 gem 'em-http-request', '~> 1.1'
 gem 'em-websocket', '~> 0.5.1'
